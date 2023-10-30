@@ -1,4 +1,4 @@
-# animal_trading_card
+# Animal_trading_card
 Udacity animal trading card project
 
 ****************************************
